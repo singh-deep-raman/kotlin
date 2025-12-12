@@ -26,4 +26,12 @@ fun main(args: Array<String>) {
         else -> "herbivore"
     }
     println(typeOfAnimal)
+
+    // capturing the subject
+    val name = "Ramandeep"
+    when (val length = name.length) { // useful when value is returned from function
+        in 1..5 -> println("$length is too short")
+        in 6..10 -> println("$length is medium")
+        else -> println("$length is too long")
+    }
 }
