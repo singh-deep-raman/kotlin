@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5d436f6-b7df-4717-9d1f-b6806b5c7aee" name="Changes" comment="LateInit and Lazy variables">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete-kotlin-development-masterclass.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture1/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture10/Numbers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture11/Implicit vs Explicit.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture12/TypeConversion.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture13/ToString.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture14/NullableAndNonNullableVariable.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture15/NullSafeCalls.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture16/ArithmeticOperatorsOnNullValues.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture17/ElvisOperator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture18/NonNullAssertion.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture19/Collection Hierarchy.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture2/Variables.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture20/ListDemo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture21/ArrayListMutableDemo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture22/List and ArrayList Functions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture23/Set Demo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture24/HashSet Demo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture25/Set Functions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture26/HashMap Demo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture26/Map Demo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture27/If Statement.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture27/In Keyword.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture28/When Conditional.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture29/For Loop.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture3/VariablesAndStringsPractice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture30/For Loop With Ranges.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture31/Functions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture32/VarArgs Function.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture33/Local Functions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture34/Lambda &amp; Higher Order Functions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture35/Classes and Objects.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture36/Object Construct.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture37/Inheritance Demo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture38/Constructors in Kotlin.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture39/Getters and Setters.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture4/StringFunctions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture40/Companion Object.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture41/Inheritance.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture41/Inheritance2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture42/Checking Scope of Internal.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture42/Scope of Variables and Functions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture43/Interfaces.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture44/1. Standard Functions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture44/2. Let Function.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture44/3.  With Function.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture44/4. Run Function.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture44/5. Apply &amp; Also Function.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture44/6. takeIf and takeUnless.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture45/Data Class.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture46/Enum Demo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture47/Sealed Classes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture48/Nested Classes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture49/Extensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture5/StringTemplates.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture50/Generics.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture50/Type Constraints.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture51/LateInit and Lazy.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture51/TypeCasting.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture6/PracticeStrings.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture7/Contants.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture8/RandomNumberGenerator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture8/UserInput.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture9/UserInputPractice.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="35R31Vfx0rVUjo13FcioSrPMVc9" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.VASP.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Kotlin.Apply_FunctionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ArithmeticOperatorsOnNullValuesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ArrayListMutableDemoKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Capture_Subject_in_WhenKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Classes_and_ObjectsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Companion_ObjectKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Constructors_in_KotlinKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ContantsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.CoroutinesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Data_ClassKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ElvisOperatorKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Enum_DemoKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ExtensionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.For_LoopKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.For_Loop_With_RangesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.GenericsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Getters_and_SettersKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.HashMap_DemoKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.HashSet_DemoKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.If_StatementKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Implicit_vs_ExplicitKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.In_KeywordKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Inheritance2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.InheritanceKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Inheritance_DemoKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Lambda_FunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Lambda___Higher_Order_FunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.LateInitKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.LateInit_and_LazyKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ListDemoKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.List_FunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.List_and_ArrayList_FunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Local_FunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Map_DemoKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Nested_ClassesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.NullSafeCallsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.NumbersKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Object_ConstructKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.PracticeStringsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.RandomNumberGeneratorKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Scope_of_Variables_and_FunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Sealed_ClassesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Set_DemoKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Set_FunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Standard_FunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.StringFunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.TakeIf_and_takeUnlessKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ToStringKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.TypeCastingKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.TypeConversionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Type_ConstraintsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.UserInputKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.UserInputPracticeKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.VarArgs_FunctionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.VariablesAndStringsPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.VariablesAndStringsPracticeKt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.VariablesAndStringsPracticeKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.VariablesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.When_ConditionalKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.While_LoopKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._4__Run_FunctionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._5__Apply___Also_FunctionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._With_FunctionKt.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/learning/Documents/kotlin/udemy/complete-kotlin-development-masterclass/src/lecture41&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/learning/Documents/kotlin/udemy/complete-kotlin-development-masterclass/src/Main.kt&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JSON&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lecture41" />
+    </key>
+    <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
+      <recent name="lecture1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.CoroutinesKt">
+    <configuration name="VASP" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lecture3.VariablesAndStringsPracticeKt" />
+      <module name="complete-kotlin-development-masterclass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoroutinesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture52.CoroutinesKt" />
+      <module name="complete-kotlin-development-masterclass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture50.GenericsKt" />
+      <module name="complete-kotlin-development-masterclass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LateInit_and_LazyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture51.LateInit_and_LazyKt" />
+      <module name="complete-kotlin-development-masterclass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeCastingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture51.TypeCastingKt" />
+      <module name="complete-kotlin-development-masterclass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Type_ConstraintsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture50.Type_ConstraintsKt" />
+      <module name="complete-kotlin-development-masterclass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.VASP" />
+      <item itemvalue="Kotlin.CoroutinesKt" />
+      <item itemvalue="Kotlin.GenericsKt" />
+      <item itemvalue="Kotlin.LateInit_and_LazyKt" />
+      <item itemvalue="Kotlin.TypeCastingKt" />
+      <item itemvalue="Kotlin.Type_ConstraintsKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.CoroutinesKt" />
+        <item itemvalue="Kotlin.LateInit_and_LazyKt" />
+        <item itemvalue="Kotlin.TypeCastingKt" />
+        <item itemvalue="Kotlin.Type_ConstraintsKt" />
+        <item itemvalue="Kotlin.GenericsKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5d436f6-b7df-4717-9d1f-b6806b5c7aee" name="Changes" comment="" />
+      <created>1763058848010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763058848010</updated>
+      <workItem from="1763058853234" duration="5989000" />
+      <workItem from="1763192880827" duration="2349000" />
+      <workItem from="1763533788927" duration="7143000" />
+      <workItem from="1763990691531" duration="29723000" />
+      <workItem from="1765536826574" duration="9116000" />
+    </task>
+    <task id="LOCAL-00001" summary="Variables and Strings small assignments">
+      <option name="closed" value="true" />
+      <created>1763193934052</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763193934052</updated>
+    </task>
+    <task id="LOCAL-00002" summary="String templates contains expressions">
+      <option name="closed" value="true" />
+      <created>1763533853291</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763533853291</updated>
+    </task>
+    <task id="LOCAL-00003" summary="String practice examples">
+      <option name="closed" value="true" />
+      <created>1763534699304</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763534699304</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Constants in Kotlin">
+      <option name="closed" value="true" />
+      <created>1763541531143</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763541531143</updated>
+    </task>
+    <task id="LOCAL-00005" summary="UserInput in kotlin and random number generator">
+      <option name="closed" value="true" />
+      <created>1763710734886</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763710734886</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Nullable and Non nullable variables in kotlin">
+      <option name="closed" value="true" />
+      <created>1765265365554</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765265365554</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Null safe calls">
+      <option name="closed" value="true" />
+      <created>1765265708948</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765265708948</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Arithmetic operators on null values">
+      <option name="closed" value="true" />
+      <created>1765266072038</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765266072038</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Elvis operator">
+      <option name="closed" value="true" />
+      <created>1765297594973</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1765297594973</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Non Null Assertion">
+      <option name="closed" value="true" />
+      <created>1765297790673</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1765297790673</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Collections Hierarchy">
+      <option name="closed" value="true" />
+      <created>1765352470842</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1765352470842</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Immutable List demo">
+      <option name="closed" value="true" />
+      <created>1765375184454</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1765375184454</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ArrayList Demo (Mutable)">
+      <option name="closed" value="true" />
+      <created>1765375847486</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1765375847486</updated>
+    </task>
+    <task id="LOCAL-00014" summary="List and ArrayList functions demo">
+      <option name="closed" value="true" />
+      <created>1765376480259</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1765376480259</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Set demo">
+      <option name="closed" value="true" />
+      <created>1765461990917</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1765461990917</updated>
+    </task>
+    <task id="LOCAL-00016" summary="HashSet demo">
+      <option name="closed" value="true" />
+      <created>1765462375528</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1765462375528</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Set and HashSet functions">
+      <option name="closed" value="true" />
+      <created>1765463523968</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1765463523968</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Map Demo">
+      <option name="closed" value="true" />
+      <created>1765464547146</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1765464547146</updated>
+    </task>
+    <task id="LOCAL-00019" summary="HashMap Demo.kt">
+      <option name="closed" value="true" />
+      <created>1765466789096</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1765466789096</updated>
+    </task>
+    <task id="LOCAL-00020" summary="If Statement">
+      <option name="closed" value="true" />
+      <created>1765555108274</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1765555108274</updated>
+    </task>
+    <task id="LOCAL-00021" summary="In Keyword and it's uses">
+      <option name="closed" value="true" />
+      <created>1765555744495</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1765555744495</updated>
+    </task>
+    <task id="LOCAL-00022" summary="When demo">
+      <option name="closed" value="true" />
+      <created>1765557836153</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1765557836153</updated>
+    </task>
+    <task id="LOCAL-00023" summary="When capturing the subject">
+      <option name="closed" value="true" />
+      <created>1765566745882</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1765566745882</updated>
+    </task>
+    <task id="LOCAL-00024" summary="For Loop demo">
+      <option name="closed" value="true" />
+      <created>1765631827073</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1765631827073</updated>
+    </task>
+    <task id="LOCAL-00025" summary="For Loop with ranges">
+      <option name="closed" value="true" />
+      <created>1765632400979</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1765632400979</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Functions demo">
+      <option name="closed" value="true" />
+      <created>1765648026494</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1765648026494</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Function with vararg arguments">
+      <option name="closed" value="true" />
+      <created>1765700069768</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1765700069768</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Local Functions">
+      <option name="closed" value="true" />
+      <created>1765701389576</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1765701389576</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Higher Order Functions">
+      <option name="closed" value="true" />
+      <created>1765715913995</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1765715913995</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Classes and objects">
+      <option name="closed" value="true" />
+      <created>1765805501028</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1765805501028</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Object Construct demo">
+      <option name="closed" value="true" />
+      <created>1765806449260</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1765806449260</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Inheritance in Kotlin with open keyword">
+      <option name="closed" value="true" />
+      <created>1765886547142</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1765886547142</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Constructors in kotlin">
+      <option name="closed" value="true" />
+      <created>1765887297627</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1765887297627</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Getters and Setters">
+      <option name="closed" value="true" />
+      <created>1765888010226</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1765888010226</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Companion object demo">
+      <option name="closed" value="true" />
+      <created>1765895816219</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1765895816219</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Inheritance with multiple options">
+      <option name="closed" value="true" />
+      <created>1765896882537</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1765896882537</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Scope of Variables and Functions">
+      <option name="closed" value="true" />
+      <created>1765897805763</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1765897805763</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Interfaces in kotlin">
+      <option name="closed" value="true" />
+      <created>1766071982182</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1766071982182</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Standard Functions or Scoped Functions">
+      <option name="closed" value="true" />
+      <created>1766119589947</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1766119589947</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Data class in kotlin">
+      <option name="closed" value="true" />
+      <created>1766120679914</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1766120679914</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Enums in kotlin">
+      <option name="closed" value="true" />
+      <created>1766217869340</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1766217869340</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Sealed classes in kotlin">
+      <option name="closed" value="true" />
+      <created>1766218496254</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1766218496254</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Nested classes demo">
+      <option name="closed" value="true" />
+      <created>1766222544802</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1766222544802</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Extensions">
+      <option name="closed" value="true" />
+      <created>1766245673805</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1766245673805</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Generics">
+      <option name="closed" value="true" />
+      <created>1766246340888</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1766246340888</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Type Constraints in Generics">
+      <option name="closed" value="true" />
+      <created>1766250237306</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1766250237306</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Type Casting">
+      <option name="closed" value="true" />
+      <created>1766327575055</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1766327575055</updated>
+    </task>
+    <task id="LOCAL-00048" summary="LateInit and Lazy variables">
+      <option name="closed" value="true" />
+      <created>1766328946863</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1766328946863</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="For Loop demo" />
+    <MESSAGE value="For Loop with ranges" />
+    <MESSAGE value="Functions demo" />
+    <MESSAGE value="Function with vararg arguments" />
+    <MESSAGE value="Local Functions" />
+    <MESSAGE value="Higher Order Functions" />
+    <MESSAGE value="Classes and objects" />
+    <MESSAGE value="Object Construct demo" />
+    <MESSAGE value="Inheritance in Kotlin with open keyword" />
+    <MESSAGE value="Constructors in kotlin" />
+    <MESSAGE value="Getters and Setters" />
+    <MESSAGE value="Companion object demo" />
+    <MESSAGE value="Inheritance with multiple options" />
+    <MESSAGE value="Scope of Variables and Functions" />
+    <MESSAGE value="Interfaces in kotlin" />
+    <MESSAGE value="Standard Functions or Scoped Functions" />
+    <MESSAGE value="Data class in kotlin" />
+    <MESSAGE value="Enums in kotlin" />
+    <MESSAGE value="Sealed classes in kotlin" />
+    <MESSAGE value="Nested classes demo" />
+    <MESSAGE value="Extensions" />
+    <MESSAGE value="Generics" />
+    <MESSAGE value="Type Constraints in Generics" />
+    <MESSAGE value="Type Casting" />
+    <MESSAGE value="LateInit and Lazy variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="LateInit and Lazy variables" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/lecture1/Main.kt</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
